@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "870881197099",
+    "project_id": "hepal-547a5",
+    "storage_bucket": "hepal-547a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870881197099:android:fc23fb975b447274d47e6e",
+        "android_client_info": {
+          "package_name": "com.example.hepal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870881197099-7gt4u4c05l9ajcnc1sklk9d5k6qj63cf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hepal",
+            "certificate_hash": "845da3d11477b144b61aee93cbf4c96b3c6757b2"
+          }
+        },
+        {
+          "client_id": "870881197099-5gkto9fej8r42nsmasefm57ni8379qvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6CeXdtT3PkhLF2JhwtIdHP0QpMLjMJbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870881197099-5gkto9fej8r42nsmasefm57ni8379qvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
